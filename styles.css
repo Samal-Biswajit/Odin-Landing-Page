@@ -104,3 +104,28 @@ button{
     font-size: 20px;
     margin-top: 10px;
 }
+
+
+.main3{
+      background-color: #e5e7eb;
+      font-family: 'Roboto', sans-serif;
+      font-size: 36px;       /* 36px size */
+      font-weight: 300;      /* Light */
+      font-style: italic;    /* Italic */
+      color: #1f2937;        /* Dark gray */
+    }
+
+.container2{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 150px 300px;
+}
+
+.credit{
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    text-align: right;
+    font-style: normal;
+    font-size: 24px;
+}
