@@ -29,7 +29,7 @@ The goal was to recreate a landing page from a given design using **HTML and CSS
 - Improved version control skills using **Git & GitHub**.
 
 ## 🖼️ Preview
-[View Live Demo](https://your-username.github.io/landing-page/)  
+[View Live Demo](https://samal-biswajit.github.io/Odin-Landing-Page/)  
 *(Replace with your GitHub Pages link if deployed)*
 
 ## 📜 License
